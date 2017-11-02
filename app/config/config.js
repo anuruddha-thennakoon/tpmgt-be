@@ -1,9 +1,9 @@
 const config = {
 
-    secret:'digital_pulz',
+    secret:'tpmgt_be',
     port: 8000,
     mongo: {
-        host: 'mongodb://localhost/d',
+        host: 'mongodb://localhost/tpmgt_be',
         port: 27017
     }
 };

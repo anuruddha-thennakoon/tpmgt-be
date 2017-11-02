@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-const newSupplier = new Schema({
+const newCompany = new Schema({
     companyName: {
         type: String
     },
@@ -16,11 +16,16 @@ const newSupplier = new Schema({
         type: String
     },
     contactNumber: {
-        type: Number
+        type: String
+    },
+    email: {
+        type: String
+    },
+    websiter: {
+        type: String
     }
-
 });
 
-const Supplier = mongoose.model('Supplier', newSupplier);
+const Company = mongoose.model('Company', newCompany);
 
-module.exports = Supplier;
+module.exports = Company;

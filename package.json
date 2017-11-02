@@ -1,21 +1,21 @@
 {
-  "name": "pharmacy_module",
+  "name": "tpmgt_be",
   "version": "1.0.0",
-  "description": "pharmacy module for HIS/SLIIT",
+  "description": "Training and placement management system backend",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anuruddha-thennakoon/pharmacy_module.git"
+    "url": "https://github.com/anuruddha-thennakoon/tpmgt-be.git"
   },
   "author": "ANURUDDHA",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anuruddha-thennakoon/pharmacy_module/issues"
+    "url": "https://github.com/anuruddha-thennakoon/tpmgt-be/issues"
   },
-  "homepage": "https://github.com/anuruddha-thennakoon/pharmacy_module#readme",
+  "homepage": "https://github.com/anuruddha-thennakoon/tpmgt-be",
   "dependencies": {
     "angular": "^1.6.4",
     "angular-route": "^1.6.4",

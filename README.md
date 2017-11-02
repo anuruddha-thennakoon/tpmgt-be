@@ -1,5 +1,5 @@
 # digital_pulz
-Services for digital_pulz application
+Services for tpmgt_be application
 
 # Run
 ```
