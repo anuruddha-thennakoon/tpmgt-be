@@ -21,7 +21,7 @@ const newCompany = new Schema({
     email: {
         type: String
     },
-    websiter: {
+    website: {
         type: String
     }
 });
