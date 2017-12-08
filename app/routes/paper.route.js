@@ -20,4 +20,10 @@ router.route('/:idb')
 
     .delete(paper.deletePaper)
 
+router.route('/:idbd')
+
+    .put(paper.updatePaper)
+
+    .delete(paper.deletePaper)
+
 module.exports = router;
