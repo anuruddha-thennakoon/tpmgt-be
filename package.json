@@ -1,0 +1,30 @@
+{
+  "name": "tpmgt_be",
+  "version": "1.0.0",
+  "description": "Training and placement management system backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anuruddha-thennakoon/tpmgt-be.git"
+  },
+  "author": "ANURUDDHA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anuruddha-thennakoon/tpmgt-be/issues"
+  },
+  "homepage": "https://github.com/anuruddha-thennakoon/tpmgt-be",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.4",
+    "morgan": "^1.8.2",
+    "ng-file-upload": "^12.2.13"
+  }
+}
