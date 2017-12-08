@@ -1,4 +1,4 @@
-# digital_pulz
+# tpmgt-be
 Services for tpmgt_be application
 
 # Run
